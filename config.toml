@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://Patchethium.github.io/blog/"
+base_url = "https://patchethium.github.io/blog/"
 title = "Patchethium's Blog"
 
 # Whether to automatically compile all Sass files in the sass directory
