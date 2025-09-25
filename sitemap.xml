@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://patchethium.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://patchethium.github.io/blog/about/</loc>
+    </url>
+    <url>
+        <loc>https://patchethium.github.io/blog/categories/</loc>
+    </url>
+    <url>
+        <loc>https://patchethium.github.io/blog/categories/placeholder/</loc>
+    </url>
+    <url>
+        <loc>https://patchethium.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://patchethium.github.io/blog/placeholder/</loc>
+        <lastmod>2025-09-26</lastmod>
+    </url>
+    <url>
+        <loc>https://patchethium.github.io/blog/tags/</loc>
+    </url>
+    <url>
+        <loc>https://patchethium.github.io/blog/tags/placeholder/</loc>
+    </url>
+</urlset>
