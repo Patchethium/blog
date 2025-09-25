@@ -1,0 +1,33 @@
+# The URL the site will be built for
+base_url = "https://Patchethium.github.io"
+title = "Patchethium's Blog"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# theme
+theme = "even"
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+taxonomies = [
+    # You can enable/disable RSS
+    {name = "categories", feed = false},
+    {name = "tags", feed = false},
+]
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+katex_enable = true
+katex_auto_render = true
+even_menu = [
+    {url = "$BASE_URL", name = "Home"},
+    {url = "$BASE_URL/categories", name = "Categories"},
+    {url = "$BASE_URL/tags", name = "Tags"},
+    {url = "$BASE_URL/about", name = "About"},
+]
+even_title = "Patchethium's Blog"
